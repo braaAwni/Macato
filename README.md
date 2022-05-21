@@ -36,6 +36,19 @@ allows users to hire a personal chef to come and cook for them at home instantly
 --------------------------
 ### User journey :open_book:
 
+* The user opens the application and view the home page.
+* At home page, user see a welcome message and some sections to describe the service provided.
+* The user can go to chefs page.
+* View different chefs with his informations.
+* User able to search for a specific chef.
+* When user decides which chef to order, he clicks on hire button.
+* Order form pops up.
+* User fills the form and send the order.
+* Chef receiving the order.
+* When the chef accepts the request, a message of acceptance will be sent to the user.
+* Then the user and chef can added feedback and rate each other.
+
+
 --------------------------
 ### Initial project plan 📑
 - We need to study the targeted users for the application.
