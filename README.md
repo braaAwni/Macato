@@ -30,12 +30,7 @@ allows users to hire a personal chef to come and cook for them at home instantly
 
 ----------------------------------------
 ### flow chart  
-
->As a chef 
-![image](https://user-images.githubusercontent.com/91385875/169634529-9e81c1d5-1a15-47c4-8e55-00720b7077ab.png)
-
->As a user
-![image](https://user-images.githubusercontent.com/91385875/169634556-591b8415-4aeb-4e1b-b10d-d5f0542d7835.png)
+![image](https://user-images.githubusercontent.com/91385875/169634638-8c85f045-fa10-4e14-8f77-de7e2e50ae93.png)
  
 
 --------------------------
