@@ -8,7 +8,7 @@ allows users to hire a personal chef to come and cook for them at home instantly
 ### User story  📜📋 
 
 >As a chef 
-* I want to sign up or log in. 
+* I want to signup or login. 
 * I want to see home page and dashbord. 
 * I want to see my profile and edit detailes and update data.
 * I want to see incoming ordres.
@@ -16,6 +16,7 @@ allows users to hire a personal chef to come and cook for them at home instantly
 * I want to submit feedback.
 
 >As a user
+* I don't need to create an account or login
 * I want to choose a menu.
 * I want to submit booking details (dates, address, number of guests, etc.).
 * I want to receive email about the details.
